@@ -23,40 +23,28 @@ Eagle
 15.Save the generated manufacturing files.</br>
 
 # Theory
-
-
-
-
-
-
-
-
-
-
+A touch sensor is a type of device that captures and records physical touch or embrace on a device and/or object. It enables a device or object to detect touch or near proximity, typically by a human user or operator. Touch sensing input devices offer numerous possibilities for novel interaction techniques and it reliably replaces mechanical buttons and switches to eliminate mechanical wear and tear. These can be configured into simple sliders, rotary wheels, or touch pads for intuitive user interfaces. A touch sensor primarily works when an object or individual gets in physical contact with it. Touch sensors are also called as tactile sensors and are sensitive to touch, force or pressure. It can be implemented using Capacitive or Resistive sensing technology.
 
 ### Working 
 
+A touch sensor circuit is an electrical component that detects the presence or proximity of a conductive object, such as a human finger. It operates on the principle of capacitance, where the sensor electrode forms a capacitor with the object. When the object touches or approaches the electrode, the capacitance changes, which is detected by a measurement circuit. The circuit converts this change into a digital signal that can be processed by a microcontroller or computer. The touch sensor circuit is a simple, reliable, and cost-effective solution for various applications, including touch screens, human-machine interfaces, and industrial automation. The area of the sensor electrode and the thickness of the cover material affect the touch capacitance, and the measurement circuit is an example of a capacitance-to-digital converter (CDC).
+
+# Circuit Diagram:
+
+![image](https://github.com/swethaselvarajm/PCB-Design-Application/assets/119525603/33d0e1f2-d101-445d-aca4-b01381de0f26)
 
 
-
-
-
-# Circuit Diagram
-
-
-
-# Output
-
-
+# Output:
 
 ### Schematic diagram
 
+![image](https://github.com/swethaselvarajm/PCB-Design-Application/assets/119525603/aae4a2e1-7363-44d2-a53b-30bab7d5a413)
 
 
 ### Layout diagram
-
+![image](https://github.com/swethaselvarajm/PCB-Design-Application/assets/119525603/acfd0fd2-54de-4d38-8e7a-619fbb3f5dce)
 
 
 # Result
-
+Thus , the touch sensor circuit's schmetic diagram and layout diagram is designed successfully by using the eagle software.
 
